@@ -3,6 +3,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+<<<<<<< HEAD
           "coordinates": [[
             [107.5768406607454, -6.901966142684913],
             [107.57918998574053, -6.901952661182008],
@@ -16,6 +17,37 @@
           "name": "BDO-HUsain Sastranegara International Airport",
             "amenity": "Airport",
             "popupContent": "Airport",
+=======
+          "coordinates": [
+            [
+              [
+                107.64153230102653,
+                -6.916204813634764
+              ],
+              [
+                107.64168003703281,
+                -6.916600935178735
+              ],
+              [
+                107.64181258522603,
+                -6.916547479349944
+              ],
+              [
+                107.64167037206096,
+                -6.916158211077544
+              ],
+              [
+                107.64153230102653,
+                -6.916204813634764
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "KIARA ARTHA PARK ",
+            "amenity": "College",
+            "popupContent": "PAPER SKATE ",
+>>>>>>> upstream/main
             "style": {
                 "weight": 2,
                 "color": "#999",
@@ -30,6 +62,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+<<<<<<< HEAD
           "coordinates": [[
             [107.58222252365437, -6.906269617873363],
             [107.58253151402408, -6.905330436667896],
@@ -43,6 +76,37 @@
           "name": "Universitas Nurtanio",
             "amenity": "Universitas",
             "popupContent": "Kampus Nurtanio",
+=======
+          "coordinates": [
+          [
+            [
+              107.64285123777745,
+              -6.916038606288282
+            ],
+            [
+              107.64264616329632,
+              -6.91660194325577
+            ],
+            [
+              107.64287371169388,
+              -6.916685607105009
+            ],
+            [
+              107.64311530628794,
+              -6.9161445806205535
+            ],
+            [
+              107.64285123777745,
+              -6.916038606288282
+            ]
+          ]
+        ]
+        },
+        "properties": {
+          "name": "KIARA ARTHA PARK ",
+            "amenity": "College",
+            "popupContent": "LOLIPOP LAND AND CAFE",
+>>>>>>> upstream/main
             "style": {
                 "weight": 2,
                 "color": "#999",
@@ -52,11 +116,15 @@
             }
         }
       },
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/main
       {
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+<<<<<<< HEAD
           "coordinates": [[
             [107.58219915966316, -6.90630782693772],
             [107.58059182005724, -6.905908907537949],
@@ -70,6 +138,37 @@
           "name": "Pujasera Universitas",
             "amenity": "Pujasera",
             "popupContent": "Pujasera Universitas",
+=======
+          "coordinates": [
+            [
+              [
+                107.64181426617961,
+                -6.915557437367994
+              ],
+              [
+                107.64156439335721,
+                -6.915869665596418
+              ],
+              [
+                107.6416713041167,
+                -6.915964691538463
+              ],
+              [
+                107.64192863583077,
+                -6.915654931579837
+              ],
+              [
+                107.64181426617961,
+                -6.915557437367994
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "KIARA ARTHA PARK ",
+            "amenity": "College",
+            "popupContent": "JOMBA",
+>>>>>>> upstream/main
             "style": {
                 "weight": 2,
                 "color": "#999",
@@ -83,6 +182,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+<<<<<<< HEAD
           "coordinates": [[
             [107.58014672912162, -6.90570638595247],
             [107.58023946025281, -6.905378044208476],
@@ -96,6 +196,37 @@
           "name": "Masjid An-Nuur Universitas Nurtanio Bandung",
             "amenity": "Masjid",
             "popupContent": "Tempat Ibadah",
+=======
+          "coordinates": [
+            [
+              [
+                107.64184812327795,
+                -6.915459898318105
+              ],
+              [
+                107.64193455916785,
+                -6.915598509685694
+              ],
+              [
+                107.64222378691761,
+                -6.915382341941935
+              ],
+              [
+                107.64212737766763,
+                -6.91524703078457
+              ],
+              [
+                107.64184812327795,
+                -6.915459898318105
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "KIARA ARTHA PARK ",
+            "amenity": "College",
+            "popupContent": "Parking",
+>>>>>>> upstream/main
             "style": {
                 "weight": 2,
                 "color": "#999",
@@ -109,6 +240,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+<<<<<<< HEAD
           "coordinates": [[
             [107.58000222433867, -6.904263063371573],
             [107.57992881056816, -6.90481210295664],
@@ -122,6 +254,37 @@
           "name": "Starbuck",
             "amenity": "Starbuck",
             "popupContent": "Starbuck",
+=======
+          "coordinates": [
+            [
+              [
+                107.6426608183109,
+                -6.916676607995129
+              ],
+              [
+                107.64256784023007,
+                -6.916742155374308
+              ],
+              [
+                107.64267564090414,
+                -6.916871912405043
+              ],
+              [
+                107.64276727147632,
+                -6.916794325731658
+              ],
+              [
+                107.6426608183109,
+                -6.916676607995129
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "KIARA ARTHA PARK ",
+            "amenity": "College",
+            "popupContent": "MCDonald",
+>>>>>>> upstream/main
             "style": {
                 "weight": 2,
                 "color": "#999",
@@ -131,11 +294,15 @@
             }
         }
       },
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/main
       {
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+<<<<<<< HEAD
           "coordinates": [[
             [107.57991811861996, -6.904237202705232],
             [107.57759660201157, -6.903686397875617],
@@ -149,6 +316,49 @@
           "name": "Kawasan Parkir",
             "amenity": "Parkir",
             "popupContent": "Parkir Motor & Mobil",
+=======
+          "coordinates": [
+            [
+              [
+                107.64222308515679,
+                -6.915754359650279
+              ],
+              [
+                107.64212681256379,
+                -6.915744557379554
+              ],
+              [
+                107.64203053997085,
+                -6.915943053324739
+              ],
+              [
+                107.64193673590432,
+                -6.916340044966887
+              ],
+              [
+                107.64221074251839,
+                -6.916521386716937
+              ],
+              [
+                107.64243537856862,
+                -6.916526287844235
+              ],
+              [
+                107.64251437146623,
+                -6.915911195956525
+              ],
+              [
+                107.64222308515679,
+                -6.915754359650279
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "KIARA ARTHA PARK ",
+            "amenity": "College",
+            "popupContent": "KOLAM ARTHA PARK",
+>>>>>>> upstream/main
             "style": {
                 "weight": 2,
                 "color": "#999",
@@ -162,6 +372,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+<<<<<<< HEAD
           "coordinates": [[
             [107.58019439935958, -6.8956314717889455],
             [107.57977098007575, -6.895161072636938],
@@ -175,6 +386,37 @@
           "name": "SMP Angkasa",
             "amenity": "SMP",
             "popupContent": "SMP Angkasa",
+=======
+          "coordinates": [
+            [
+              [
+                107.64047497221276,
+                -6.9149233319819245
+              ],
+              [
+                107.64062081891387,
+                -6.9160632917265445
+              ],
+              [
+                107.64078881985341,
+                -6.916065124456864
+              ],
+              [
+                107.64064297315389,
+                -6.91489950642368
+              ],
+              [
+                107.64047497221276,
+                -6.9149233319819245
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "KIARA ARTHA PARK ",
+            "amenity": "College",
+            "popupContent": "KAMPUNG KOREA BANDUNG",
+>>>>>>> upstream/main
             "style": {
                 "weight": 2,
                 "color": "#999",
@@ -188,6 +430,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+<<<<<<< HEAD
           "coordinates": [[
             [107.5773650151429,  -6.895495037099252],
             [107.5762302899006,  -6.898831662985586],
@@ -201,6 +444,37 @@
           "name": "Dirgantara Indonesia",
             "amenity": "Dirgantara",
             "popupContent": "Dirgantara Indonesia",
+=======
+          "coordinates": [
+            [
+              [
+                107.64180863536473,
+                -6.916595350050244
+              ],
+              [
+                107.64171967310318,
+                -6.916752354181966
+              ],
+              [
+                107.64208540684518,
+                -6.9169564594749176
+              ],
+              [
+                107.64218820767991,
+                -6.916777867348259
+              ],
+              [
+                107.64180863536473,
+                -6.916595350050244
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "KIARA ARTHA PARK ",
+            "amenity": "College",
+            "popupContent": "KAMPUNG DURIAN",
+>>>>>>> upstream/main
             "style": {
                 "weight": 2,
                 "color": "#999",
@@ -214,6 +488,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+<<<<<<< HEAD
           "coordinates": [[
             [107.57404369855766, -6.8938510731298095],
             [107.57305847997401, -6.8937508779519305],
@@ -227,6 +502,37 @@
           "name": "OYO 617 Sukaraja Residence",
             "amenity": "Hotel",
             "popupContent": "Penginapan Sukaraja",
+=======
+          "coordinates": [
+            [
+              [
+                107.64330442591591,
+                -6.916069758033942
+              ],
+              [
+                107.64317027086099,
+                -6.916550616085672
+              ],
+              [
+                107.64385291826864,
+                -6.916563580388541
+              ],
+              [
+                107.64380542975243,
+                -6.916009650742666
+              ],
+              [
+                107.64330442591591,
+                -6.916069758033942
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "KIARA ARTHA PARK ",
+            "amenity": "College",
+            "popupContent": "PARKING 2",
+>>>>>>> upstream/main
             "style": {
                 "weight": 2,
                 "color": "#999",
@@ -240,6 +546,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Polygon",
+<<<<<<< HEAD
           "coordinates": [[
             [107.58385141368302, -6.906953873496022],
             [107.58308972942882, -6.906850290399433],
@@ -253,6 +560,37 @@
           "name": "Bakso Boedjangan",
             "amenity": "Bakso Boedjangan",
             "popupContent": "Tempat Makan Bakso",
+=======
+          "coordinates": [
+            [
+              [
+                107.64229043329175,
+                -6.915359501242406
+              ],
+              [
+                107.64279879838165,
+                -6.915972310511435
+              ],
+              [
+                107.6432672204989,
+                -6.915896610585364
+              ],
+              [
+                107.64287505314405,
+                -6.9151792630703
+              ],
+              [
+                107.64229043329175,
+                -6.915359501242406
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "KIARA ARTHA PARK ",
+            "amenity": "College",
+            "popupContent": "BOMBOMCAR PLACE",
+>>>>>>> upstream/main
             "style": {
                 "weight": 2,
                 "color": "#999",
@@ -262,6 +600,7 @@
             }
         }
       }
+<<<<<<< HEAD
       
     ]
       
@@ -270,3 +609,6 @@
     
       
     
+=======
+    ]
+>>>>>>> upstream/main
